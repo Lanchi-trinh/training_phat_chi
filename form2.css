@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.container{
+    background-color: white;
+    width: 40%;
+    height: 50%;
+    align-items: center;
+    float: none;
+    margin: 0px auto;
+}
+input{
+    border: none;
+    border-bottom: 1px solid blue;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    width: 80%;
+    height: 20px;
+}
+.forms{
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+}
+input[type=checkbox]{
+    text-align: left;
+}
